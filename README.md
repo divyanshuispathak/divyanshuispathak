@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @divyanshuispathak
 - 👀 I’m interested in learning new technologies specifically Java, AI
-- 🌱 I’m currently learning PHP
+- 🌱 I’m currently learning Node JS
 - 💞️ I’m looking to collaborate on Java projects
 - 📫 How to reach me https://www.linkedin.com/in/divyanshupathak2806/
 
