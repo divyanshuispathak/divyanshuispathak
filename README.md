@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @divyanshuispathak
-- 👀 I’m interested in learning new technologies specifically Java, AI
-- 🌱 I’m currently learning Node JS
-- 💞️ I’m looking to collaborate on Java projects
+- 👀 I’m interested in learning Langchain and Generative AI
+- 🌱 I’m currently learning DSA
+- 💞️ I’m looking to collaborate on Langchain Projects
 - 📫 How to reach me https://www.linkedin.com/in/divyanshupathak2806/
 
 <!---
