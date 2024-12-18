@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @divyanshuispathak
 - 👀 I’m interested in learning Langchain and Generative AI
-- 🌱 I’m currently learning DSA
-- 💞️ I’m looking to collaborate on Langchain Projects
+- 🌱 I’m currently mastering React
 - 📫 How to reach me https://www.linkedin.com/in/divyanshupathak2806/
 
 <!---
